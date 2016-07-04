@@ -1,0 +1,65 @@
+==================================================================
+https://keybase.io/travisthetechie
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://travisthetechie.com
+  * I am travisthetechie (https://keybase.io/travisthetechie) on keybase.
+  * I have a public key with fingerprint D9E4 3DEE F609 F981 04DB  53DA BF08 B086 3903 C47C
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "d9e43deef609f98104db53dabf08b0863903c47c",
+            "host": "keybase.io",
+            "key_id": "bf08b0863903c47c",
+            "uid": "35311f7dca7f23f63c1b79a0de7ec000",
+            "username": "travisthetechie"
+        },
+        "service": {
+            "hostname": "travisthetechie.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1396132831,
+    "expire_in": 157680000,
+    "prev": "093e627387f101acb5c414ed0812df860321a570877b3139e81ced565f488fa5",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v0.1.1
+Comment: https://keybase.io/crypto
+
+yMHtAnicbZFdSFRpGMdnVrdQmc2LSaxpLnohCXay884752syFL3zIwIvHEOYzsd7
+Zk7pOdM5Z0anoYs2we0DhSDbvVhZAxPcLRBTcqnU1RQqWrHQC02ZKD92iChYwcD0
+PbLdeXU4z/P7/57nnGfCleXIdTpn61f/W2Cmnc9Ht+KOWrZqKQVEXU6CYAqcxzsP
+RdUi2IgZqmaBIJB5HEAyxgpD8QrPQSogizSSBVGhOJHiGMRTSAqwEvCBqG7aCaIR
+BRMXqzqpkZewKpPqLnx8p4FoBKHCypLAKn6kMEiCIssLlIxZLFEUZYMmNjShCRPa
+MoSEalpRbGEpqmJwyQdIM6FKpJna2WB3sFjSm4gpZuiWLumNBIhaVixo561kzA40
+YzH8vyosqppM/gIJJLBhqroGgpCQkqXaboh4BiI/h6AP4JaYauCwahM0y3BkYcoe
+gxNESfEIM34WcawCKShIIi0FYADLFAf9ssIxFPJDgWYpjmVFRKyYgxKWaYZWAhyn
+CDSZb+ILmg6CAbKmECFKU41oghU3yJf/PdqQ7XDmOvZ8/519R0duTv6361Z17d10
+n/j1B49YNL/xINl/9xo/uOh92xqa994OfxyuUPalJpbb2/s+fDkETJcQK8v6fbPO
+87WvYLKsdcoXSnd5tnpLNGnoXvy9s+vf01dP+cfD2UsVdCYv/WYGNfCfH033TAxf
+/lQdKj9Q3nlkpXs9NFKZqZyq7RhKb4wFwZ+w5saPs8df5VS/u3/0n+Tcb30la5GL
+517vzxzuF1v4OJfoLTvjGiksuPLYLB2u+YlmGuHq3IpWh8ex56/N7hyvZ6D+WGle
+5pmve71nquj6zw8X18BMpP7kL4V6us3NdjbfGmw7O/Dij8mDbnDTePrEmy+8ZHqm
+xzpWS1wFC8vuO95tpRobwg==
+=BHuZ
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/travisthetechie
+
+==================================================================
